@@ -296,12 +296,117 @@ Scope defines accessibility; closure is when a function remembers its scope.
 
 ---
 
-## 🧪 Bonus Practice Questions
+## 🧪 Bonus Practice Questions (With Answers)
 
-1. What is lexical scope?
-2. How does JavaScript manage memory?
-3. What is hoisting and how is it related?
-4. Explain scope chain.
-5. What happens when a function returns another function?
+### 1. What is lexical scope?
+
+**Answer:**
+Lexical scope means that the accessibility of variables is determined by their position in the source code (where they are written).
+
+👉 Inner functions can access variables from their parent functions.
+
+```js
+function outer() {
+  let name = "Sanjit";
+
+  function inner() {
+    console.log(name);
+  }
+
+  inner();
+}
+```
+
+👉 `inner()` can access `name` because of lexical scope.
 
 ---
+
+### 2. How does JavaScript manage memory?
+
+**Answer:**
+JavaScript uses **automatic memory management (Garbage Collection)**.
+
+* Memory is allocated when variables/functions are created
+* Memory is freed when variables are no longer referenced
+
+👉 Uses a concept called **Mark-and-Sweep Algorithm**:
+
+* It marks variables that are still reachable
+* Removes those that are not reachable
+
+```js
+let user = { name: "Sanjit" };
+user = null; // eligible for garbage collection
+```
+
+---
+
+### 3. What is hoisting and how is it related?
+
+**Answer:**
+Hoisting is JavaScript's default behavior of moving declarations to the top of their scope during the creation phase of execution context.
+
+* `var` is hoisted and initialized as `undefined`
+* `let` and `const` are hoisted but stay in **Temporal Dead Zone (TDZ)**
+
+```js
+console.log(a); // undefined
+var a = 5;
+```
+
+👉 Related to Execution Context because hoisting happens during the **creation phase**.
+
+---
+
+### 4. Explain scope chain.
+
+**Answer:**
+Scope chain is the mechanism JavaScript uses to find variables.
+
+👉 If a variable is not found in the current scope, JavaScript looks in the parent scope, then continues upward until the global scope.
+
+```js
+let a = 10;
+
+function outer() {
+  let b = 20;
+
+  function inner() {
+    let c = 30;
+    console.log(a, b, c);
+  }
+
+  inner();
+}
+```
+
+👉 JavaScript resolves variables like:
+`inner → outer → global`
+
+---
+
+### 5. What happens when a function returns another function?
+
+**Answer:**
+When a function returns another function, the returned function keeps access to the outer function’s variables through **closure**.
+
+```js
+function outer() {
+  let count = 0;
+
+  return function () {
+    count++;
+    return count;
+  };
+}
+
+const counter = outer();
+console.log(counter()); // 1
+console.log(counter()); // 2
+```
+
+👉 Even after `outer()` is finished, `count` is preserved in memory.
+
+---
+
+💡 Tip: In interviews, always connect these answers with **Execution Context + Closures + Scope** to show deeper understanding.
