@@ -1,4 +1,3 @@
-```markdown
 # JavaScript Runtime & Execution: Complete Interview Guide
 
 ## Table of Contents
