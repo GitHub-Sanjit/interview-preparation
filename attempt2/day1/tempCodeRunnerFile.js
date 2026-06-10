@@ -1,7 +1,9 @@
-let name;
+function outerFunction() {
+    this.name = "Outer";
+    
+    setTimeout(() => {
+        console.log(this.name);  // Lexical 'this' = outerFunction's this
+    }, 100);
+}
 
-console.log(name)
-
-name = 'sanjit'
-
-console.log(name)
+outerFunction.call({name: "Custom"});  // "Custom"
