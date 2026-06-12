@@ -1,363 +1,437 @@
-# 30-Day Full-Stack Developer Execution Plan (Day-by-Day System)
+# 60-Day Full-Stack Developer Execution Plan
 
 ---
 
-## DAILY STRUCTURE (SAME EVERY DAY)
+# DAILY STRUCTURE (EVERY DAY)
 
-### Block 1 (8:00 AM – 2:00 PM)
+## Block 1 (8:00 AM – 2:00 PM)
+👉 Project: Video Interview Platform (6 Hours)
 
-👉 Project (Video Interview Platform) — 6 Hours *(NO BREAKDOWN)*
-
----
-
-### Block 2 (3:00 PM – 5:00 PM)
-
+## Block 2 (3:00 PM – 5:00 PM)
 👉 DSA (1 Problem Deep + Analysis)
 
----
+## Block 3 (5:00 PM – 7:00 PM)
+👉 Interview Preparation (1 Specific Topic)
 
-### Block 3 (5:00 PM – 7:00 PM)
+## Block 4 (7:45 PM – 9:15 PM)
+👉 Career Execution (Daily Task)
 
-👉 Interview Preparation (Theory + 2-min teaching video)
-
----
-
-### Block 4 (7:45 PM – 9:15 PM)
-
-👉 Career + Mock Interviews + Job Applications
+## Night (9:15 PM – 10:00 PM)
+👉 Journal + Review + Plan
 
 ---
 
-### Night (9:15 PM – 10:00 PM)
+# DAILY RULES
 
-👉 Journal + Plan + Reset Mind
-
----
-
-# DAILY ANTI-PROCRASTINATION RULES (EVERY DAY)
-
-Before starting work:
-
-* 5-Minute Rule → “I only need to start for 5 minutes”
-* No Zero Day Rule → even 1 small task counts
-* Start Before Thinking Rule → action first
-* Phone out of reach during deep work
-* Restart Rule → if distracted, reset instantly
+- 5-Minute Start Rule
+- No Zero Day Rule
+- Start Before Thinking
+- Phone away during deep work
+- Never miss twice
+- MIT first (Most Important Task)
+- Focus > Motivation
 
 ---
 
-# WEEK 1 — FOUNDATION + CONSISTENCY BUILDING
+# MONTH 1 (DAYS 1–30) — CORE FULL STACK FOUNDATION
 
 ---
 
-## Day 1
+## DAY 1
+DSA: Two Sum  
+Interview: JavaScript - Variables, Scope, Hoisting  
+Career: Clean GitHub repositories  
+Workout: Strength training  
 
-**DSA:** Two Sum
-**Interview:** JS variables, scope, hoisting
-**Career:** Resume draft + GitHub cleanup
-**Workout:** Strength (squats, push-ups, plank)
+## DAY 2
+DSA: Best Time to Buy and Sell Stock  
+Interview: SQL - SELECT, WHERE, ORDER BY  
+Career: Optimize LinkedIn headline  
+Workout: Cardio  
 
----
+## DAY 3
+DSA: Contains Duplicate  
+Interview: React - JSX, Components, Props vs State  
+Career: Write project README (Video Platform)  
+Workout: Strength  
 
-## Day 2
+## DAY 4
+DSA: Valid Parentheses  
+Interview: JavaScript - Data Types + Type Coercion  
+Career: Create resume first version  
+Workout: Cardio  
 
-**DSA:** Best Time to Buy/Sell Stock
-**Interview:** JS event loop basics
-**Career:** LinkedIn optimization
-**Workout:** Cardio (jumping jacks, high knees)
+## DAY 5
+DSA: Maximum Subarray  
+Interview: SQL - GROUP BY, HAVING  
+Career: Apply to 3 jobs  
+Workout: Strength  
 
----
+## DAY 6
+DSA: Reverse String  
+Interview: React - State Management Basics  
+Career: Improve GitHub profile README  
+Workout: Cardio  
 
-## Day 3
-
-**DSA:** Valid Parentheses
-**Interview:** React props vs state
-**Career:** Write project description
-**Workout:** Strength
-
----
-
-## Day 4
-
-**DSA:** Reverse String
-**Interview:** React lifecycle basics
-**Career:** Apply 3 jobs
-**Workout:** Cardio
-
----
-
-## Day 5
-
-**DSA:** Maximum Subarray
-**Interview:** REST API basics
-**Career:** Resume version 2
-**Workout:** Strength
-
----
-
-## Day 6
-
-**DSA:** Contains Duplicate
-**Interview:** Node.js basics
-**Career:** LinkedIn engagement (comment 3 posts)
-**Workout:** Cardio
+## DAY 7
+DSA: Merge Sorted Array  
+Interview: JavaScript - Functions + Scope Chain  
+Career: Mock self-introduction recording  
+Workout: Recovery  
 
 ---
 
-## Day 7
+## DAY 8
+DSA: Two Sum II  
+Interview: SQL - Joins (INNER, LEFT)  
+Career: LinkedIn networking (5 connections)  
+Workout: Strength  
 
-**DSA:** Merge Sorted Array
-**Interview:** Revision of Week 1 topics
-**Career:** Mock self-interview (record yourself)
-**Workout:** Recovery stretch
+## DAY 9
+DSA: Valid Palindrome  
+Interview: React - useState, useEffect  
+Career: Improve resume structure  
+Workout: Cardio  
 
----
+## DAY 10
+DSA: 3Sum  
+Interview: JavaScript - Closures  
+Career: Apply to 3 jobs  
+Workout: Strength  
 
-# WEEK 2 — LINKED LIST + REACT DEPTH
+## DAY 11
+DSA: Container With Most Water  
+Interview: SQL - Subqueries  
+Career: Write STAR stories  
+Workout: Cardio  
 
----
+## DAY 12
+DSA: Trapping Rain Water  
+Interview: React - Component Lifecycle  
+Career: Improve project description  
+Workout: Strength  
 
-## Day 8
+## DAY 13
+DSA: Remove Duplicates from Sorted Array  
+Interview: Node.js Basics  
+Career: Apply to 5 jobs  
+Workout: Cardio  
 
-**DSA:** Reverse Linked List
-**Interview:** React hooks basics
-**Career:** Apply 3–5 jobs
-**Workout:** Strength
-
----
-
-## Day 9
-
-**DSA:** Merge Two Lists
-**Interview:** useEffect deep dive
-**Career:** Improve project README
-**Workout:** Cardio
-
----
-
-## Day 10
-
-**DSA:** Linked List Cycle
-**Interview:** Node.js event loop
-**Career:** LinkedIn post (1 technical insight)
-**Workout:** Strength
-
----
-
-## Day 11
-
-**DSA:** Remove Nth Node
-**Interview:** Express basics
-**Career:** Mock interview (technical)
-**Workout:** Cardio
+## DAY 14
+DSA: Review Arrays + Two Pointers  
+Interview: JavaScript Revision Week 1  
+Career: Mock interview recording  
+Workout: Recovery  
 
 ---
 
-## Day 12
+## DAY 15
+DSA: Reverse Linked List  
+Interview: React - Hooks Deep Dive  
+Career: Improve GitHub project structure  
+Workout: Strength  
 
-**DSA:** Palindrome Linked List
-**Interview:** REST API design
-**Career:** Resume refinement
-**Workout:** Strength
+## DAY 16
+DSA: Merge Two Sorted Lists  
+Interview: SQL - Indexing Basics  
+Career: Apply to 3 jobs  
+Workout: Cardio  
 
----
+## DAY 17
+DSA: Linked List Cycle  
+Interview: Node.js Event Loop  
+Career: LinkedIn post (technical insight)  
+Workout: Strength  
 
-## Day 13
+## DAY 18
+DSA: Remove Nth Node  
+Interview: REST API Basics  
+Career: Resume version 2 update  
+Workout: Cardio  
 
-**DSA:** Add Two Numbers
-**Interview:** Authentication (JWT)
-**Career:** Apply 5 jobs
-**Workout:** Cardio
+## DAY 19
+DSA: Palindrome Linked List  
+Interview: React - Performance Optimization  
+Career: Mock interview  
+Workout: Strength  
 
----
+## DAY 20
+DSA: Add Two Numbers  
+Interview: Authentication (JWT Basics)  
+Career: Apply to 5 jobs  
+Workout: Cardio  
 
-## Day 14
-
-**DSA:** Linked List revision
-**Interview:** Week 2 recap
-**Career:** Mock interview + review mistakes
-**Workout:** Recovery
-
----
-
-# WEEK 3 — TREES + SYSTEM DESIGN BASICS
-
----
-
-## Day 15
-
-**DSA:** Binary Tree Inorder
-**Interview:** Trees basics
-**Career:** Architecture diagram start
-**Workout:** Strength
-
----
-
-## Day 16
-
-**DSA:** Max Depth Binary Tree
-**Interview:** System design intro
-**Career:** Apply 3–5 jobs
-**Workout:** Cardio
+## DAY 21
+DSA: Linked List Revision  
+Interview: Week 2 Revision  
+Career: Fix weak areas in resume  
+Workout: Recovery  
 
 ---
 
-## Day 17
+## DAY 22
+DSA: Invert Binary Tree  
+Interview: Trees Basics  
+Career: System design notes start  
+Workout: Strength  
 
-**DSA:** Same Tree
-**Interview:** Load balancer basics
-**Career:** Mock interview
-**Workout:** Strength
+## DAY 23
+DSA: Maximum Depth Binary Tree  
+Interview: Caching Basics  
+Career: Apply to 3 jobs  
+Workout: Cardio  
 
----
+## DAY 24
+DSA: Same Tree  
+Interview: Load Balancer Basics  
+Career: Improve GitHub documentation  
+Workout: Strength  
 
-## Day 18
+## DAY 25
+DSA: Level Order Traversal  
+Interview: Database Indexing  
+Career: LinkedIn engagement  
+Workout: Cardio  
 
-**DSA:** Level Order Traversal
-**Interview:** Caching concepts
-**Career:** Improve GitHub project docs
-**Workout:** Cardio
+## DAY 26
+DSA: Validate BST  
+Interview: System Design Basics  
+Career: Apply to 5 jobs  
+Workout: Strength  
 
----
+## DAY 27
+DSA: Lowest Common Ancestor  
+Interview: API Design Principles  
+Career: Mock interview  
+Workout: Cardio  
 
-## Day 19
-
-**DSA:** Validate BST
-**Interview:** Database indexing basics
-**Career:** LinkedIn engagement
-**Workout:** Strength
-
----
-
-## Day 20
-
-**DSA:** Path Sum
-**Interview:** JWT + sessions
-**Career:** Apply 5 jobs
-**Workout:** Cardio
-
----
-
-## Day 21
-
-**DSA:** Tree revision
-**Interview:** System design recap
-**Career:** Full mock interview
-**Workout:** Recovery
-
----
-
-# WEEK 4 — INTERVIEW SIMULATION + SPEED + CONFIDENCE
+## DAY 28
+DSA: Tree Revision  
+Interview: System Design Revision  
+Career: Portfolio improvement  
+Workout: Recovery  
 
 ---
 
-## Day 22
+## DAY 29
+DSA: Mock DSA Test (2 Problems)  
+Interview: Full JS Revision  
+Career: Resume polishing  
+Workout: Light cardio  
 
-**DSA:** Binary Search
-**Interview:** Full JS revision
-**Career:** Apply 5 jobs
-**Workout:** Strength
-
----
-
-## Day 23
-
-**DSA:** Sliding Window basics
-**Interview:** React revision
-**Career:** Mock interview
-**Workout:** Cardio
+## DAY 30
+DSA: Weak Area Revision  
+Interview: React + Node Revision  
+Career: Job applications (5+)  
+Workout: Stretching  
 
 ---
 
-## Day 24
-
-**DSA:** Minimum Window Substring
-**Interview:** Node.js revision
-**Career:** Resume final polish
-**Workout:** Strength
+# MONTH 2 (DAYS 31–60) — ADVANCED + SYSTEM DESIGN + AI
 
 ---
 
-## Day 25
+## DAY 31
+DSA: Binary Search  
+Interview: System Design - Scalability  
+Career: LinkedIn optimization  
+Workout: Strength  
 
-**DSA:** Search Insert Position
-**Interview:** System design revision
-**Career:** Apply 5 jobs
-**Workout:** Cardio
+## DAY 32
+DSA: Search Insert Position  
+Interview: System Design - Load Balancer  
+Career: Apply to 5 jobs  
+Workout: Cardio  
+
+## DAY 33
+DSA: Search in Rotated Array  
+Interview: System Design - Caching  
+Career: Resume update  
+Workout: Strength  
+
+## DAY 34
+DSA: Find Minimum Rotated Array  
+Interview: System Design - CDN  
+Career: Portfolio improvement  
+Workout: Cardio  
+
+## DAY 35
+DSA: Maximum Subarray Variants  
+Interview: System Design - Database Sharding  
+Career: Mock interview  
+Workout: Strength  
+
+## DAY 36
+DSA: Longest Substring Without Repeat  
+Interview: System Design - Microservices  
+Career: Apply to 5 jobs  
+Workout: Cardio  
+
+## DAY 37
+DSA: Minimum Window Substring  
+Interview: System Design - CAP Theorem  
+Career: LinkedIn networking  
+Workout: Strength  
+
+## DAY 38
+DSA: Permutation in String  
+Interview: System Design - Message Queues  
+Career: Resume refinement  
+Workout: Cardio  
+
+## DAY 39
+DSA: Kth Largest Element  
+Interview: Node.js Scaling  
+Career: Mock interview  
+Workout: Strength  
+
+## DAY 40
+DSA: Top K Frequent Elements  
+Interview: System Design - API Gateway  
+Career: Apply to 5 jobs  
+Workout: Cardio  
+
+## DAY 41
+DSA: Task Scheduler  
+Interview: System Design - Monitoring  
+Career: Portfolio update  
+Workout: Strength  
+
+## DAY 42
+DSA: Find Median Stream  
+Interview: System Design - WebSockets  
+Career: LinkedIn post  
+Workout: Cardio  
+
+## DAY 43
+DSA: Number of Islands  
+Interview: Graph Basics  
+Career: Mock interview  
+Workout: Strength  
+
+## DAY 44
+DSA: Clone Graph  
+Interview: Graph Traversal Design  
+Career: Apply to 5 jobs  
+Workout: Cardio  
+
+## DAY 45
+DSA: Course Schedule  
+Interview: System Design Review  
+Career: Architecture diagram practice  
+Workout: Strength  
 
 ---
 
-## Day 26
+## DAY 46
+DSA: Climbing Stairs  
+Interview: AI Basics - LLMs  
+Career: Resume optimization  
+Workout: Cardio  
 
-**DSA:** Top K Frequent Elements
-**Interview:** Behavioral answers
-**Career:** LinkedIn networking
-**Workout:** Strength
+## DAY 47
+DSA: House Robber  
+Interview: Prompt Engineering Basics  
+Career: AI notes creation  
+Workout: Strength  
+
+## DAY 48
+DSA: Coin Change  
+Interview: Embeddings + Vectors  
+Career: Apply to 5 jobs  
+Workout: Cardio  
+
+## DAY 49
+DSA: LIS Problem  
+Interview: RAG Architecture  
+Career: Mock interview  
+Workout: Strength  
+
+## DAY 50
+DSA: Partition Subset Sum  
+Interview: AI SDK Integration  
+Career: Portfolio improvement  
+Workout: Cardio  
+
+## DAY 51
+DSA: DP Revision  
+Interview: OpenAI APIs  
+Career: Resume refinement  
+Workout: Strength  
+
+## DAY 52
+DSA: Graph + DP Mixed Practice  
+Interview: AI Agents Basics  
+Career: Apply to 5 jobs  
+Workout: Cardio  
+
+## DAY 53
+DSA: Timed Contest  
+Interview: MCP Servers Basics  
+Career: LinkedIn engagement  
+Workout: Strength  
+
+## DAY 54
+DSA: Timed Contest  
+Interview: AI App Architecture  
+Career: Mock interview  
+Workout: Cardio  
+
+## DAY 55
+DSA: Weak Areas Fix  
+Interview: AI Cost Optimization  
+Career: Portfolio polishing  
+Workout: Strength  
+
+## DAY 56
+DSA: Mixed Revision  
+Interview: AI System Design  
+Career: Apply to 5 jobs  
+Workout: Cardio  
+
+## DAY 57
+DSA: Mock Assessment  
+Interview: Full Revision  
+Career: Resume finalization  
+Workout: Strength  
+
+## DAY 58
+DSA: Mock Assessment  
+Interview: Behavioral Interview  
+Career: Mock interview  
+Workout: Cardio  
+
+## DAY 59
+DSA: Final Revision  
+Interview: All Topics Rapid Review  
+Career: Portfolio final polish  
+Workout: Light cardio  
+
+## DAY 60
+DSA: Confidence Problems Only  
+Interview: Final Interview Simulation  
+Career: Job application sprint  
+Workout: Stretch + Recovery  
 
 ---
 
-## Day 27
+# FINAL OUTCOME
 
-**DSA:** Kth Largest Element
-**Interview:** Full-stack revision
-**Career:** Mock interview
-**Workout:** Cardio
+After 60 days:
 
----
-
-## Day 28
-
-**DSA:** Revision all weak topics
-**Interview:** Rapid revision
-**Career:** Apply remaining jobs
-**Workout:** Recovery
+- Strong Full-Stack Project (Production Ready)
+- 60+ DSA Problems Mastered
+- System Design Fundamentals
+- AI Integration Skills
+- Strong Resume + GitHub
+- Active Job Pipeline
+- Interview Confidence Built
+- Discipline System Installed
 
 ---
 
-# FINAL 2 DAYS — SIMULATION MODE
+# FINAL RULE
 
----
+You don’t wait for motivation.
 
-## Day 29
-
-**DSA:** Mixed timed test (2 problems)
-**Interview:** Full mock interview
-**Career:** Resume final version
-**Workout:** Light cardio
-
----
-
-## Day 30
-
-**DSA:** Easy revision only
-**Interview:** Confidence revision
-**Career:** Portfolio final review
-**Workout:** Stretch + recovery
-
----
-
-# FINAL DAILY MINDSET
-
-Before starting work:
-
-> “I don’t wait for motivation. I execute.”
-
----
-
-# FINAL OUTCOME AFTER 30 DAYS
-
-* Strong Full-Stack Project
-* 30+ DSA problems deeply understood
-* Interview-ready communication
-* 10–15 mock interviews
-* Strong resume + GitHub
-* Active job pipeline
-* Controlled procrastination habit
-
----
-
-# FINAL TRUTH
-
-You don’t rise by motivation.
-
-You rise by repetition under structure.
+You execute the next task.
