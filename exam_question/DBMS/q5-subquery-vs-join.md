@@ -1,4 +1,6 @@
 # Question 5: Main Query vs Subquery (Interview Preparation Notes)
+**Question 5:**  
+What is the difference between a main query and a subquery? In what scenarios would you choose to use a subquery over a standard JOIN operation?
 
 ## 1. What is a Main Query?
 
